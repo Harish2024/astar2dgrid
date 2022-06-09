@@ -28,8 +28,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 ## PROGRAM
 ```
 /*
-Developed By:KRISHNA MOORTHY S
-Reg. No: 212220230025
+Developed By:harish .g
+Reg. No: 212220230021
 */
 ```
 ```python
