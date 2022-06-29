@@ -1,10 +1,7 @@
-# A* Path Finding Algorithm for 2D Grid World
-## AIM
+## EX.NO: 04
+## DATE: 17-05-2022
+## <p align="center">A* Path Finding Algorithm for 2D Grid World</P>
 
-To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
-
-## THEORY
-Explain the proble# A* Path Finding Algorithm for 2D Grid World
 ## AIM
 
 To develop a code to find the route from the source to the destination point using A* algorithm for 2D grid world.
@@ -33,8 +30,8 @@ Pass all the values to the GirdProblem, and print the solution path.
 ## PROGRAM
 
 ```
-Name : harish g
-Reg. No: 212220230025
+Name: harish g
+Reg. No: 212220230021
 ```
 
 ```python
@@ -194,4 +191,4 @@ path_states(solution1)
 The algorithm is able to find the solution path for the given problem. But the solution path, might not be the shortest path to reach the goal state.
 
 ## RESULT:
-Hence, A* Algorithm was implemented to find the route from the source to the destination point in a 2D gird World.m statement
+Hence, A* Algorithm was implemented to find the route from the source to the destination point in a 2D gird World.
